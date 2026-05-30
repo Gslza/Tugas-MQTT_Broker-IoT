@@ -1,0 +1,10 @@
+{
+  "name": "Dashboard IoT Smart Home",
+  "description": "Dashboard IoT real-time terintegrasi Firebase untuk pemantauan suhu, kelembapan, kontrol relay, dan perintah suara.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
